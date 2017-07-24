@@ -11,3 +11,5 @@ Write methods for each solution.
 
 Afterwards, write a TestNG or JUnit class for each solution which tests these methods.<br>
 Include both positive and negative cases for validations.
+
+The complete project should be provided back in a zipped file.
