@@ -13,3 +13,4 @@ Afterwards, write a TestNG, JUnit, or ScalaTest class for each solution which te
 Include both positive and negative cases for validations.
 
 The complete project should be provided back in a zipped file.
+Please do not fork this repository.
